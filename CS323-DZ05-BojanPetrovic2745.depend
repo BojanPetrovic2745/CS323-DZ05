@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554114442 source:/home/spejskau/Documents/CS323-DZ05-BojanPetrovic2745/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1565699272 source:/home/spejskau/CS323-DZ05-BojanPetrovic2745/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
